@@ -1,0 +1,16 @@
+# Basic Ubuntu Commands
+pwd
+cd ..
+mkdir test
+touch file.txt
+cp file.txt copy.txt
+rm file.txt
+mv copy.txt newname.txt
+
+# ls command options
+ls -a
+ls -l
+ls -lh
+ls -lt
+ls -ltr
+ls -R

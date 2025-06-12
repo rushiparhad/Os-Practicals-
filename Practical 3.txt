@@ -1,0 +1,8 @@
+ps
+top
+kill <PID>
+bg
+fg
+nice -n 10 command
+renice 5 -p <PID>
+jobs
